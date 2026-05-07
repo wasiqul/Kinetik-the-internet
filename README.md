@@ -1,6 +1,6 @@
 # Kinetik-the-internet
 
-Only a intro work demo
+Only an intro work demo
 
 URL: https://the-internet.herokuapp.com/login
 Username: tomsmith / Password: SuperSecretPassword!
